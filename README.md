@@ -1,1 +1,1 @@
-Esse é meu primeiro projeto utilizando: HTML, CSS E JS 
+Esse é meu primeiro projeto pessoal utilizando: HTML, CSS E JS 
